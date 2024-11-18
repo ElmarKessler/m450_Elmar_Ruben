@@ -21,3 +21,8 @@
 - **Hoher Schaden:** Ein schwerwiegender Softwarefehler in der Luftfahrtsoftware könnte dazu führen, dass Steuerungssysteme falsch reagieren und potenziell einen Unfall verursachen, was zu Verlusten von Menschenleben und erheblichem finanziellen Schaden führen könnte.
 
 ---
+
+## Bonus
+
+Bei der If-Schachtel wird der zweite Fall nie eintreten, man müsste die 
+Reihenfolge drehen.
