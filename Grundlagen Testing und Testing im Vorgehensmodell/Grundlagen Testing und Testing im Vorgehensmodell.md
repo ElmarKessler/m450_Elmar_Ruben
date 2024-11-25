@@ -19,3 +19,16 @@
 - **SW-Fehler:** Ein Softwarefehler tritt auf, wenn eine Funktionalität aufgrund eines Programmierfehlers nicht korrekt arbeitet. Beispiel: Ein Banking-Programm berechnet falsche Zinsen auf Sparkonten.
 - **SW-Mangel:** Ein Softwaremangel ist eine nicht erfüllte Anforderung, die jedoch nicht durch einen Codefehler verursacht wird. Beispiel: Eine Suchfunktion in einer App ist zwar vorhanden, aber so langsam, dass sie für die Nutzer als unbrauchbar empfunden wird.
 - **Hoher Schaden:** Ein schwerwiegender Softwarefehler in der Luftfahrtsoftware könnte dazu führen, dass Steuerungssysteme falsch reagieren und potenziell einen Unfall verursachen, was zu Verlusten von Menschenleben und erheblichem finanziellen Schaden führen könnte.
+
+---
+
+## Aufgabe 3
+
+<img width="830" alt="image" src="https://github.com/user-attachments/assets/f9f85c6d-4c90-4aa5-bd58-a88791929366">
+
+---
+
+## Bonus
+
+Bei der If-Schachtel wird der zweite Fall nie eintreten, man müsste die 
+Reihenfolge drehen.
