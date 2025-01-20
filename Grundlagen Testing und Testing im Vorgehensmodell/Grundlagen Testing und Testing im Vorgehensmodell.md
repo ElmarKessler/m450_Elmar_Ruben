@@ -22,6 +22,12 @@
 
 ---
 
+## Aufgabe 3
+
+<img width="830" alt="image" src="https://github.com/user-attachments/assets/f9f85c6d-4c90-4aa5-bd58-a88791929366">
+
+---
+
 ## Bonus
 
 Bei der If-Schachtel wird der zweite Fall nie eintreten, man müsste die 
