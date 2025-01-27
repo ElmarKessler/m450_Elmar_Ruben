@@ -12,7 +12,6 @@ Getestet werden alle Funktionen die zu den Server Endpoints gehören und die Fun
 - ShoppingListsStore.tsx
 - ShoppingListStore.tsx
 - ListCreationContext.tsx
-- index.d.ts
 
 #### Functions
 - useAddShoppingListCallback()
@@ -33,9 +32,6 @@ Getestet werden alle Funktionen die zu den Server Endpoints gehören und die Fun
 
 - ListCreationProvider()
 - useListCreation()
-
--
--
 
 ### Features not to be tested
 - Frontend
