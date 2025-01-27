@@ -1,6 +1,6 @@
-## TDD - PHPUnit Übung
+# TDD - PHPUnit Übung
 
-### Aufgabe 1 - Setup Environment
+## Aufgabe 1 - Setup Environment
 - Wir konnte PHPUnit als Pluggin bei VSCode installieren weil VSCode PHPUnit als Pluggin unterstützt.
   Dies hat uns die Installation erleichtert.
 
