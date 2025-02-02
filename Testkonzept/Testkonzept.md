@@ -49,3 +49,8 @@ Die Komponententests führen wir durch Unit Tests aus. Wir verwenden kein Test D
 - Wir verwenden VSCode als Entwicklerumgebung und als Terminal
 - Dann benutzen wir die Testing library "React" und Jest '@testing-library/jest-dom';
 - Unsere Tests werden bei jeder Änderung am Code automatisch ausgeführt durch den Befehl npm test
+
+### Planung
+1. Analysieren welche Methoden wichtig sind zu testen und welche in die "Features not to be tested" Kategorie fallen
+2. Zu jeder Methode die dazugehörigen Testfälle schreiben und wenn nötig Debuggen
+3. Die Testsuite überprüfen und zur nächsten Funktion gehen.
